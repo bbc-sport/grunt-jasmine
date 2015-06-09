@@ -1,5 +1,5 @@
-module.exports = {
-    grunt.registerMultiTask('grunt-jasmine', function(done) {
+module.exports = function(grunt) {
+    grunt.registerMultiTask('jasmine', function(done) {
         var jasmine = new (require('jasmine'))();
         var done = this.async();
 
