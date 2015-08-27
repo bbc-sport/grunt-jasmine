@@ -3,6 +3,7 @@
   "description": "Task runner for Jasmine",
   "version": "0.0.0",
   "dependencies": {
-    "jasmine": "^2.3.1"
+    "jasmine": "^2.3.1",
+    "jasmine-reporters": "latest"
   }
 }
