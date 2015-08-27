@@ -4,6 +4,6 @@
   "version": "0.0.0",
   "dependencies": {
     "jasmine": "^2.3.1",
-    "jasmine-reporters": "^1.0.0"
+    "jasmine-reporters": "latest"
   }
 }
